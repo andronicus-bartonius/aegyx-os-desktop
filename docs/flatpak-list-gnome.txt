@@ -1,0 +1,79 @@
+# Frequently Used Flatpaks #
+
+## Scope: user ##
+
+# Productivity #
+Logseq                com.logseq.Logseq
+Joplin                net.cozic.joplin_desktop
+LibreOffice           org.libreoffice.LibreOffice
+
+# Communication #
+Mailspring            com.getmailspring.Mailspring
+SimpleX Chat          chat.simplex.simplex
+Discord               com.discordapp.Discord
+Signal Desktop        org.signal.Signal # WILL NEED CONFIG TO USE ENCRYPTION
+
+# Gaming #
+Steam                 com.valvesoftware.Steam
+Steam Link            com.valvesoftware.SteamLink
+Heroic                com.heroicgameslauncher.hgl
+Prism Launcher        org.prismlauncher.PrismLauncher
+
+# Creative #
+OBS Studio            com.obsproject.Studio
+Audacity              org.audacityteam.Audacity
+GIMP                  org.gimp.GIMP
+Krita                 org.kde.krita
+Kdenlive              org.kde.kdenlive
+
+# AI/ML Tools #
+Upscayl               org.upscayl.Upscayl
+REAL Video Enhancer   …hub.tntwise.REAL-Video-Enhancer
+
+# System Utilities #
+SSH Pilot             io.github.mfat.sshpilot
+Fedora Media Writer   org.fedoraproject.MediaWriter
+Vorta                 com.borgbase.Vorta
+Font Downloader       org.gustavoperedo.FontDownloader 
+Easy Effects          com.github.wwmm.easyeffects
+Warehouse             io.github.flattool.Warehouse
+
+
+## Scope: system ##
+
+# System # 
+Bazaar                io.github.kolunmi.Bazaar
+Brave                 com.brave.Browser
+Flatseal              com.github.tchx84.Flatseal
+DistroShelf           com.ranfdev.DistroShelf
+ 
+
+
+
+
+# DE-Specific Flatpaks (GNOME) #
+
+## Scope: system ##
+
+Image Viewer (Loupe)            org.gnome.Loupe
+Video Player (Showtime)         org.gnome.Showtime
+Audio Player (Decibels)         org.gnome.Decibels
+Calculator                      org.gnome.Calculator
+Clocks                          org.gnome.clocks
+Weather                         org.gnome.Weather
+Document Viewer (Papers)        org.gnome.Papers
+Document Scanner (SimpleScan)   org.gnome.SimpleScan
+Logs                            org.gnome.Logs
+Fonts                           org.gnome.font-viewer
+Contacts                        org.gnome.Contacts
+Calendar                        org.gnome.Calendar
+Characters                      org.gnome.Characters
+Connections                     org.gnome.Connections
+Snapshot                        org.gnome.Snapshot
+Boxes                           org.gnome.Boxes
+Maps                            org.gnome.Maps
+Text Editor                     org.gnome.TextEditor
+Extensions Manager              org.gnome.Extensions
+Disk Analyzer (Boabab)          org.gnome.boabab
+# Note, GNOME extensions (such as GSConnect) must be installed via other means,
+

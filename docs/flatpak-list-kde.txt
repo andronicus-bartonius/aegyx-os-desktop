@@ -1,0 +1,72 @@
+# Frequently Used Flatpaks #
+
+## Scope: user ##
+
+# Productivity #
+Logseq                com.logseq.Logseq
+Joplin                net.cozic.joplin_desktop
+LibreOffice           org.libreoffice.LibreOffice
+
+# Communication #
+Mailspring            com.getmailspring.Mailspring
+SimpleX Chat          chat.simplex.simplex
+Discord               com.discordapp.Discord
+Signal Desktop        org.signal.Signal # WILL NEED CONFIG TO USE ENCRYPTION
+
+# Gaming #
+Steam                 com.valvesoftware.Steam
+Steam Link            com.valvesoftware.SteamLink
+Heroic                com.heroicgameslauncher.hgl
+Prism Launcher        org.prismlauncher.PrismLauncher
+
+# Creative #
+OBS Studio            com.obsproject.Studio
+Audacity              org.audacityteam.Audacity
+GIMP                  org.gimp.GIMP
+Krita                 org.kde.krita
+Kdenlive              org.kde.kdenlive
+
+# AI/ML Tools #
+Upscayl               org.upscayl.Upscayl
+REAL Video Enhancer   …hub.tntwise.REAL-Video-Enhancer
+
+# System Utilities #
+SSH Pilot             io.github.mfat.sshpilot
+Fedora Media Writer   org.fedoraproject.MediaWriter
+Vorta                 com.borgbase.Vorta 
+Font Downloader       org.gustavoperedo.FontDownloader
+Easy Effects          com.github.wwmm.easyeffects
+Warehouse             io.github.flattool.Warehouse
+
+
+## Scope: system ##
+
+# System # 
+Bazaar                io.github.kolunmi.Bazaar
+Brave                 com.brave.Browser
+Flatseal              com.github.tchx84.Flatseal
+DistroShelf           com.ranfdev.DistroShelf
+ 
+
+
+
+
+# DE-Specific Flatpaks (KDE Plasma) #
+
+## Scope: system ##
+
+Gwenview                     org.kde.gwenview
+Haruna                       org.kde.haruna
+KCalc                        org.kde.kcalc
+Clock                        org.kde.kclock
+Weather                      org.kde.kweather
+KDE Partition Manager        org.kde.kdepartitionmanager
+Okular                       org.kde.okular
+Skanpage                     org.kde.skanpage
+Filelight                    org.kde.filelight
+Marknote                     org.kde.marknote
+KRDC                         org.kde.krdc
+Kamoso                       org.kde.kamoso
+
+
+
