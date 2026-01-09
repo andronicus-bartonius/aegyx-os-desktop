@@ -1,0 +1,11 @@
+List of modules to add later:
+
+
+Features to add:
+
+- Add Aegyx branding to the image
+- Create 'optional-flatpaks' module for Blue Build
+    - This module will add an additional customization option to the
+      Fedora installer to allow users to select which categories of 
+      Flatpaks they want to install, instead of installing all of them
+      by default via the 'default-flatpaks' module
