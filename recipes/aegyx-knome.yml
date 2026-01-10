@@ -2,8 +2,9 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
 # image will be published to ghcr.io/<user>/<name>
 
-name: aegyx
-description: This is my sexy-@$$ OS image.
+name: aegyx-knome
+description: A custom Fedora Atomic image based on uBlue Aurora designed for engineering, gaming, and daily-use.
+             This variation uses the KDE Plasma DE, but themed to achieve the sleek, modern look of GNOME.
 
 base-image: ghcr.io/ublue-os/aurora
 image-version: stable 
@@ -91,6 +92,7 @@ modules:
           - org.kde.kdenlive
           # AI/ML Tools #
           - org.upscayl.Upscayl
+          - io.github.tntwise.REAL-Video-Enhancer
           # System Utilities #
           - io.github.mfat.sshpilot
           - org.fedoraproject.MediaWriter

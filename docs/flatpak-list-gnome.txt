@@ -28,7 +28,7 @@ Kdenlive              org.kde.kdenlive
 
 # AI/ML Tools #
 Upscayl               org.upscayl.Upscayl
-REAL Video Enhancer   …hub.tntwise.REAL-Video-Enhancer
+REAL Video Enhancer   io.github.tntwise.REAL-Video-Enhancer
 
 # System Utilities #
 SSH Pilot             io.github.mfat.sshpilot
