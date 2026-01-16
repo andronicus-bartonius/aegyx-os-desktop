@@ -101,4 +101,13 @@ modules:
           - com.github.wwmm.easyeffects
           - io.github.flattool.Warehouse
 
+  # Set OS release properties
+  - type: os-release
+    properties:
+      ID: aegyx
+      ID_LIKE: aurora
+      NAME: Aegyx
+      PRETTY_NAME: Aegyx OS
+      VARIANT_ID: KNOME
+
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
